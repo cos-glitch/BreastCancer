@@ -8,3 +8,6 @@ Link to data set: https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-
 - Exports results from each run to:
     - .txt file using the contextlib library
     - .xlsx file using ExcelWriter and openpyxl
+
+
+Data used under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a> license.
